@@ -1,0 +1,9 @@
+<{{ con.type }}
+    {% for attr, attr_content in con %}
+        {% if attr not in ['content', 'type'] %}
+            {{ attr ? attr ~ '="' ~ attr_content ~ '"' : '' }}
+        {% endif %}
+    {% endfor %}
+>
+    {{ con.content|raw }}
+</{{ con.type }}>

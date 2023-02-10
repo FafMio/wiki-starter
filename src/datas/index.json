@@ -1,0 +1,113 @@
+{
+    "page": {
+        "title": "Wikilys",
+        "description": ""
+    },
+    "welcome": {
+        "header": {
+            "title": "Welcome to the FafMio Wiki"
+        }
+    },
+    "sections": [
+        {
+            "title": "Introduction",
+            "id": "introduction",
+            "content": [
+                {
+                    "type": "p",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec felis scelerisque, sollicitudin lacus vel, viverra erat. Aenean euismod turpis quis leo consectetur varius. In venenatis, eros vitae lacinia porttitor, diam risus fermentum ante, in mattis neque dolor quis ante. Vivamus molestie mauris ac metus cursus tincidunt. Donec feugiat maximus pretium. In hac habitasse platea dictumst. Cras fringilla est dictum rutrum posuere. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+                },
+                {
+                    "type": "p",
+                    "content": "Phasellus vel lorem ligula. Cras non orci a nisi porta aliquam. Nam nec augue consectetur lectus varius ultrices. Vivamus sed erat ligula. Nunc neque mi, viverra et erat a, tristique volutpat urna. Ut ornare nulla vel dignissim dapibus. Nunc sed blandit nibh. Morbi quam est, maximus a malesuada id, sollicitudin eu augue. Cras a lacus ut libero scelerisque vulputate et quis diam. Cras rutrum, nulla nec ultricies pulvinar, odio metus dapibus nisi, vitae sodales nisl nisl sit amet lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc libero felis, sagittis tempus erat nec, egestas varius lorem. Aliquam tortor nisi, facilisis eu dolor at, lacinia facilisis eros."
+                }
+            ]
+        },
+        {
+            "title": "Getting Started",
+            "id": "getting-started",
+            "steps": [
+                {
+                    "title": "Installation",
+                    "id": "install",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Nam blandit, dui nec vehicula feugiat, nisi erat facilisis arcu, dictum posuere justo odio non ante. Pellentesque lacinia dolor non neque pretium pulvinar. Praesent facilisis nibh non magna venenatis, sed volutpat massa tincidunt. Nulla vel condimentum libero. Etiam tincidunt vehicula lorem, non egestas lacus molestie interdum. Praesent imperdiet dolor tellus. Suspendisse imperdiet, dolor eget ullamcorper gravida, diam enim pulvinar urna, in placerat velit ex et enim."
+                        },
+                        {
+                            "type": "pre",
+                            "content": "<code class=\"language-shell hljs\">git clone https://github.com/FafMio.wiki-starter.git</code>"
+                        },
+                        {
+                            "type": "p",
+                            "content": "Nam blandit, dui nec vehicula feugiat, nisi erat facilisis arcu, dictum posuere justo odio non ante. Pellentesque lacinia dolor non neque pretium pulvinar. Praesent facilisis nibh non magna venenatis, sed volutpat massa tincidunt. Nulla vel condimentum libero. Etiam tincidunt vehicula lorem, non egestas lacus molestie interdum. Praesent imperdiet dolor tellus. Suspendisse imperdiet, dolor eget ullamcorper gravida, diam enim pulvinar urna, in placerat velit ex et enim."
+                        },
+                        {
+                            "type": "pre",
+                            "content": "<code class=\"language-shell hljs\">yarn \rnpm install</code>"
+                        }
+                    ]
+                },
+                {
+                    "title": "Launch the App",
+                    "id": "launch",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Sed et orci vitae tortor sodales sodales. Quisque id est porttitor mi iaculis rutrum. In id fringilla erat. Sed nisl velit, rutrum sed porta a, gravida vitae nisi. Proin at libero et eros malesuada fermentum at id purus. Donec non pulvinar nibh. Nunc euismod ipsum vulputate erat bibendum, consequat finibus lorem gravida. Vestibulum sed urna suscipit, elementum tortor cursus, porta purus. Maecenas ac sapien quam. Sed in luctus nibh, at tincidunt nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce fringilla diam ex, at hendrerit ligula tincidunt at. Mauris non placerat erat. Praesent et ipsum hendrerit, maximus odio in, porttitor elit. Sed sed felis ut elit lacinia aliquam quis auctor ipsum."
+                        },
+                        {
+                            "type": "pre",
+                            "content": "<code class=\"language-shell hljs\">gulp serve</code>"
+                        }
+                    ]
+                },
+                {
+                    "title": "Deploy",
+                    "id": "deploy",
+                    "content": [
+                        {
+                            "type": "p",
+                            "content": "Sed et orci vitae tortor sodales sodales. Quisque id est porttitor mi iaculis rutrum. In id fringilla erat. Sed nisl velit, rutrum sed porta a, gravida vitae nisi. Proin at libero et eros malesuada fermentum at id purus. Donec non pulvinar nibh."
+                        },
+                        {
+                            "type": "pre",
+                            "content": "<code class=\"language-shell hljs\">gulp build</code>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Configuration",
+            "id": "configuration",
+            "content": [
+                {
+                    "type":"pre",
+                    "content" : "<code class=\"language-css\">.section { todo: asapma; }</code>"
+                }
+            ]
+        },
+        {
+            "title": "License",
+            "id": "license",
+            "content": [
+                {
+                    "type":"pre",
+                    "content" : "<code class=\"language-css\">.section { todo: asapma; }</code>"
+                }
+            ]
+        },
+        {
+            "title": "Contributors",
+            "id": "cpntributors",
+            "content": [
+                {
+                    "type":"pre",
+                    "content" : "<code class=\"language-css\">.section {\r  margin: 0;\r}</code>"
+                }
+            ]
+        }
+    ]
+}

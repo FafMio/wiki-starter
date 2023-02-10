@@ -1,0 +1,14 @@
+//* Import the normalizer
+@import 'global/normalize';
+
+//* Import the pages
+//TODO Import pages
+
+//* Import TailwindCSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+    margin-top: 1rem;
+}

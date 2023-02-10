@@ -1,0 +1,20 @@
+{
+    "navbar": {
+        "title": "FafMio Wiki",
+        "image": {
+            "href": "/assets/images/logo.png",
+            "alt": "FafMio Logo"
+        },
+        "links": [
+            {
+                "href": "/",
+                "text": "Home"
+            },
+            {
+                "href": "https://github.com/FafMio",
+                "text": "GitHub",
+                "target": "_blank"
+            }
+        ]
+    }
+}
