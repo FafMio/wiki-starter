@@ -51,7 +51,7 @@ let paths = {
         global: 'src' + path.sep + 'datas' + path.sep + 'global.json',
         watcher: 'src' + path.sep + 'datas' + path.sep + '**' + path.sep + '*.json',
         dir: 'src' + path.sep + 'datas' + path.sep + '',
-        src: '**' + path.sep + '*.json',
+        //src: '**' + path.sep + '*.json',
     }
 };
 
